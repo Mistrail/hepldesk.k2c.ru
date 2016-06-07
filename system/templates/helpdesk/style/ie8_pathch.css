@@ -1,0 +1,90 @@
+.container-fluid{
+    margin: 0;
+    padding: 0;
+}
+
+
+.navbar-brand{
+    height: auto;
+}
+
+ul.nav.navbar-nav.navbar-right{
+    display: inline-block;
+    text-align: right;
+    float: right;
+    margin: 0;
+    padding: 0;
+}
+
+ul.nav.navbar-nav.navbar-right li{
+    display: inline-block;
+    float: left;
+}
+
+ul.nav.navbar-nav.navbar-right form{
+    text-align: left;
+    width: 350px;
+    border: none;
+    padding: 0;
+    margin: 6px 0 5px 0;
+}
+
+ul.nav.navbar-nav.navbar-right form input{
+    vertical-align: top;
+    display: inline-block;
+    width: auto;
+    height: auto;
+}
+
+ul.nav.navbar-nav.navbar-right form button{
+    vertical-align: top;
+    display: inline-block;
+    overflow: hidden;
+    height: 28px;
+    margin: 1px 0;
+}
+
+.form.form-horizontal.modal-content .col-sm-2{
+    float: left;
+    display: inline-block;
+    width: 20%;
+}
+
+.form.form-horizontal.modal-content .form-group{
+    overflow: hidden
+}
+.form.form-horizontal.modal-content .col-sm-4{
+    float: left;
+    display: inline-block;
+    width: 30%;
+}
+
+.form.form-horizontal.modal-content .col-sm-8{
+    float: left;
+    display: inline-block;
+    width: 60%;
+}
+.form.form-horizontal.modal-content input,
+.form.form-horizontal.modal-content select,
+.form.form-horizontal.modal-content textarea
+{
+    display: inline-block;
+    width: 90%;
+    height: auto;
+}
+
+.form.form-horizontal.modal-content select{
+     width: 90%;
+}
+
+.form.form-horizontal.modal-content .col-sm-2 input{
+    width: auto;
+    height: auto;
+}
+
+
+.form.form-horizontal.modal-content input:hover,
+.form.form-horizontal.modal-content select:hover,
+.form.form-horizontal.modal-content textarea:hover{
+    border: 1px solid #fa0;
+}

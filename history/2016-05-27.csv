@@ -1,0 +1,43 @@
+1464330042	uid:275	158	INSERT			
+1464331801	uid:275	159	INSERT			
+1464350605	uid:275	160	INSERT			
+1464355284	uid:312	159	UPDATE	status_id	1	5
+1464355284	uid:312	159	UPDATE	payment_type_id	0	1
+1464355781	uid:312	160	UPDATE	payout_date_real	2016-05-27 09:00:00	2016-05-27 18:00:00
+1464355781	uid:312	160	UPDATE	city		Калининград
+1464355781	uid:312	160	UPDATE	address		Партизана Железняка д.8, кв. 26 10 этаж
+1464355781	uid:312	160	UPDATE	subject	нужно настроить адаптер, просит позвонить, уточнить	нужно настроить сетевой адаптер
+1464355781	uid:312	160	UPDATE	payment_type_id	0	1
+1464355781	uid:312	160	UPDATE	staff_id	0	14
+1464355878	uid:312	154	UPDATE	status_id	1	4
+1464355878	uid:312	154	UPDATE	payment_type_id	0	1
+1464355878	uid:312	154	UPDATE	staff_id	0	11
+1464355878	uid:312	154	UPDATE	summ	0	1000
+1464355878	uid:312	154	UPDATE	payment	0	1000
+1464355896	uid:312	160	UPDATE	status_id	1	2
+1464355925	uid:312	157	UPDATE	address	Карасная дом 1 кв. 1	Красная дом 1 кв. 1
+1464355925	uid:312	157	UPDATE	payment_type_id	0	1
+1464355925	uid:312	157	UPDATE	staff_id	0	14
+1464355950	uid:312	157	UPDATE	status_id	1	2
+1464357189	uid:312	157	DELETE			
+1464357255	uid:312	149	UPDATE	status_id	1	4
+1464357255	uid:312	149	UPDATE	payment_type_id	0	1
+1464357255	uid:312	149	UPDATE	comments	несколько дней назад был уже наш мастер Давыдов. заявка на сегодня в течении часа.	несколько дней назад был уже наш мастер Давыдов. заявка на сегодня в течении часа. \ тестирование подключения к инет
+1464357255	uid:312	149	UPDATE	staff_id	0	11
+1464357255	uid:312	149	UPDATE	summ	0	500
+1464357255	uid:312	149	UPDATE	payment	0	500
+1464357329	uid:312	135	UPDATE	summ	0	3100
+1464357329	uid:312	135	UPDATE	summ_zch	0	1800
+1464357329	uid:312	135	UPDATE	bso	0	36
+1464357377	uid:312	149	UPDATE	bso	0	37
+1464357460	uid:312	154	UPDATE	status_id	4	3
+1464357572	uid:312	151	UPDATE	status_id	1	3
+1464357572	uid:312	151	UPDATE	payment_type_id	0	1
+1464357572	uid:312	151	UPDATE	comments	на сегодня как можно скорее	на сегодня как можно скорее \ восстановление виндовс 7
+1464357572	uid:312	151	UPDATE	staff_id	0	14
+1464357572	uid:312	151	UPDATE	summ	0	1200
+1464357572	uid:312	151	UPDATE	payment	0	1200
+1464357572	uid:312	151	UPDATE	bso	0	41
+1464357702	uid:312	148	UPDATE	status_id	1	2
+1464357702	uid:312	148	UPDATE	payment_type_id	0	1
+1464357702	uid:312	148	UPDATE	staff_id	0	14

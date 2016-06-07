@@ -1,0 +1,33 @@
+1463748322	uid:275	125	INSERT			
+1463751630	uid:275	126	INSERT			
+1463752117	uid:312	126	UPDATE	staff_id	0	12
+1463752117	uid:312	126	UPDATE	status_id	1	2
+1463752117	uid:312	126	UPDATE	payment_type_id	0	1
+1463761102	uid:275	127	INSERT			
+1463761375	uid:275	128	INSERT			
+1463762434	uid:312	127	UPDATE	city		Калининград
+1463762434	uid:312	127	UPDATE	address		ул. Линейная д.4, кв.6
+1463762434	uid:312	127	UPDATE	subject	сколько стоит установить роутер и усилитель (все есть в наличии, только установка)	Установка роутера и усилителя
+1463762434	uid:312	127	UPDATE	payment_type_id	0	1
+1463762434	uid:312	127	UPDATE	payout_date_real	2016-05-20 09:00:00	2016-05-21 11:00:00
+1463762839	uid:312	125	UPDATE	city		Калининград
+1463762839	uid:312	125	UPDATE	contact	Арван Борис Мих-ч	Арван Борис Михайлович
+1463762839	uid:312	125	UPDATE	subject	сдавали на ремонт 18/5 телевизор 32 лн 540 б-2 а, когда привезут? ждет звонка!	телевизор выключается
+1463762839	uid:312	125	UPDATE	status_id	1	3
+1463762839	uid:312	125	UPDATE	payment_type_id	0	1
+1463762839	uid:312	125	UPDATE	payment	0	1500
+1463762839	uid:312	125	UPDATE	comments	когда привезут?	телевизор на диагностике, по результатам диагностики, клиенту отзвонимся, сообщим
+1463762839	uid:312	125	UPDATE	sd		да
+1463762859	uid:312	124	UPDATE	status_id	1	5
+1463762859	uid:312	124	UPDATE	payment_type_id	0	1
+1463762867	uid:312	125	UPDATE	type_id	1	4
+1463762912	uid:312	127	UPDATE	staff_id	0	11
+1463763515	uid:312	127	UPDATE	status_id	1	2
+1463767029	uid:275	129	INSERT			
+1463769190	uid:312	129	UPDATE	city		Калининград
+1463769190	uid:312	129	UPDATE	address		Артиллерийская д.57, кв. 48
+1463769190	uid:312	129	UPDATE	subject	сколько стоит замена блока питания на ноутбуке Тошиба? ждет звонка	Диагностика ноутбука Тошиба
+1463769190	uid:312	129	UPDATE	payment_type_id	0	1
+1463769210	uid:312	128	UPDATE	staff_id	0	12
+1463769210	uid:312	128	UPDATE	payment_type_id	0	1
+1463769227	uid:312	128	UPDATE	status_id	1	3

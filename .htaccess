@@ -1,0 +1,12 @@
+#php_value display_errors 0
+#php_value error_reporting 2047
+#php_value session.cookie_domain .k2c.ru
+
+RewriteEngine on
+
+RewriteCond %{REQUEST_URI} !^/index\.php
+RewriteCond %{REQUEST_URI} !^/ajax\.php
+RewriteCond %{REQUEST_URI} !.js$
+RewriteCond %{REQUEST_URI} !.css$
+RewriteCond %{REQUEST_URI} !test.php$
+RewriteRule .* index.php [L]

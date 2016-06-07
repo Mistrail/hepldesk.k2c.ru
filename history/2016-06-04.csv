@@ -1,0 +1,23 @@
+1465043817	uid:275	186	INSERT			
+1465053574	uid:275	187	INSERT			
+1465054360	uid:312	184	UPDATE	status_id	2	3
+1465054360	uid:312	184	UPDATE	summ	0	2000
+1465054360	uid:312	184	UPDATE	payment	0	2000
+1465055003	uid:312	187	UPDATE	status_id	1	2
+1465055003	uid:312	187	UPDATE	payout_date_real	2016-06-04 09:00:00	2016-06-04 18:00:00
+1465055003	uid:312	187	UPDATE	city		Калининград
+1465055003	uid:312	187	UPDATE	address		Киевская 149, кв.3 код 3018
+1465055003	uid:312	187	UPDATE	subject	переустановка виндууса, в новигатор установить карты, сколько стоит?	переустановка виндууса от 450, в навигатор установить карты
+1465055003	uid:312	187	UPDATE	payment_type_id	0	1
+1465055003	uid:312	187	UPDATE	staff_id	0	14
+1465056053	uid:275	188	INSERT			
+1465057958	uid:275	189	INSERT			
+1465058458	uid:312	188	UPDATE	status_id	1	2
+1465058458	uid:312	188	UPDATE	address		Невского 143, кв.13
+1465058458	uid:312	188	UPDATE	subject	сломаны два сканера эпсон, кеннон, сколько стоит?	проблема со сканером и принтером
+1465058458	uid:312	188	UPDATE	payment_type_id	0	1
+1465058458	uid:312	188	UPDATE	comments		в течении дня, заранее позвонить
+1465058458	uid:312	188	UPDATE	percent	0	
+1465058473	uid:312	189	UPDATE	status_id	1	2
+1465058473	uid:312	189	UPDATE	payment_type_id	0	1
+1465058473	uid:312	189	UPDATE	staff_id	0	18

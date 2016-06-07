@@ -1,0 +1,27 @@
+1464596223	uid:312	164	UPDATE	status_id	2	3
+1464596223	uid:312	164	UPDATE	comments		установка видеоадаптера
+1464596223	uid:312	164	UPDATE	summ	0	750
+1464596223	uid:312	164	UPDATE	payment	0	750
+1464596223	uid:312	164	UPDATE	bso	0	48
+1464596281	uid:312	166	UPDATE	payment_type_id	0	1
+1464596281	uid:312	166	UPDATE	comments	16 этажный дом	16 этажный дом \ оптимизация
+1464596281	uid:312	166	UPDATE	staff_id	0	16
+1464596281	uid:312	166	UPDATE	summ	0	450
+1464596281	uid:312	166	UPDATE	payment	0	450
+1464596291	uid:312	166	UPDATE	status_id	1	3
+1464596356	uid:312	165	UPDATE	status_id	2	3
+1464596356	uid:312	165	UPDATE	comments	был эксперт	был эксперт \ 1) предустановка windows 7
+2) установка утилит
+3) чистка и замена термопасты
+1464596356	uid:312	165	UPDATE	summ	0	4200
+1464596356	uid:312	165	UPDATE	payment	0	4200
+1464596578	uid:275	167	INSERT			
+1464597897	uid:275	168	INSERT			
+1464602568	uid:275	169	INSERT			
+1464614248	uid:312	168	UPDATE	status_id	1	3
+1464614248	uid:312	168	UPDATE	payment_type_id	0	1
+1464614248	uid:312	168	UPDATE	comments	до 12.00	до 12.00 \ восстановление ярлыков
+1464614248	uid:312	168	UPDATE	staff_id	0	15
+1464614248	uid:312	168	UPDATE	summ	0	500
+1464614248	uid:312	168	UPDATE	payment	0	500
+1464614248	uid:312	168	UPDATE	bso	0	54

@@ -1,0 +1,117 @@
+1464765919	uid:275	174	INSERT			
+1464766901	uid:275	175	INSERT			
+1464770174	uid:312	176	INSERT			
+1464772040	uid:312	173	UPDATE	payment_type_id	0	1
+1464772040	uid:312	173	UPDATE	comments		4900 замена матрицы
+1464772845	uid:312	154	UPDATE	status_id	3	4
+1464772845	uid:312	154	UPDATE	bso	0	38
+1464773231	uid:312	147	UPDATE	status_id	1	4
+1464773231	uid:312	147	UPDATE	payment_type_id	0	1
+1464773231	uid:312	147	UPDATE	comments		установка драйверов
+1464773231	uid:312	147	UPDATE	staff_id	0	12
+1464773231	uid:312	147	UPDATE	summ	0	1000
+1464773231	uid:312	147	UPDATE	payment	0	1000
+1464773231	uid:312	147	UPDATE	bso	0	34
+1464773375	uid:312	132	UPDATE	status_id	1	4
+1464773375	uid:312	132	UPDATE	payment_type_id	0	1
+1464773375	uid:312	132	UPDATE	comments	предварительно позвонить	предварительно позвонить \ установка драйверов
+1464773375	uid:312	132	UPDATE	summ	0	600
+1464773375	uid:312	132	UPDATE	payment	0	600
+1464773375	uid:312	132	UPDATE	bso	0	31
+1464774451	uid:312	142	UPDATE	status_id	1	4
+1464774453	uid:312	142	UPDATE	payment_type_id	0	1
+1464774453	uid:312	142	UPDATE	comments		установка видеодрайвера
+1464774453	uid:312	142	UPDATE	staff_id	0	12
+1464774453	uid:312	142	UPDATE	summ	0	600
+1464774453	uid:312	142	UPDATE	payment	0	600
+1464774453	uid:312	142	UPDATE	bso	0	32
+1464776106	uid:312	126	UPDATE	status_id	2	4
+1464776106	uid:312	126	UPDATE	summ	0	950
+1464776106	uid:312	126	UPDATE	payment	0	950
+1464776106	uid:312	126	UPDATE	bso	0	19
+1464777272	uid:312	128	UPDATE	status_id	3	4
+1464777272	uid:312	128	UPDATE	comments		чистка апп
+1464777272	uid:312	128	UPDATE	summ	0	1800
+1464777272	uid:312	128	UPDATE	payment	0	1800
+1464777272	uid:312	128	UPDATE	bso	0	20
+1464777470	uid:312	166	UPDATE	status_id	3	4
+1464777470	uid:312	166	UPDATE	comments	16 этажный дом  оптимизация	16 этажный дом  оптимизация \ оптимизация
+1464777470	uid:312	166	UPDATE	bso	0	52
+1464777745	uid:312	174	UPDATE	status_id	1	4
+1464777745	uid:312	174	UPDATE	payment_type_id	0	1
+1464777745	uid:312	174	UPDATE	comments		настройка роутера
+1464777745	uid:312	174	UPDATE	staff_id	0	16
+1464777745	uid:312	174	UPDATE	summ	0	500
+1464777745	uid:312	174	UPDATE	payment	0	500
+1464777745	uid:312	174	UPDATE	bso	0	53
+1464778385	uid:275	177	INSERT			
+1464778402	uid:312	168	UPDATE	status_id	3	4
+1464779248	uid:312	177	UPDATE	status_id	1	2
+1464779248	uid:312	177	UPDATE	type_id	2	3
+1464779248	uid:312	177	UPDATE	payment_type_id	0	1
+1464779248	uid:312	177	UPDATE	staff_id	0	14
+1464780002	uid:312	158	UPDATE	status_id	3	4
+1464781693	uid:275	178	INSERT			
+1464782120	uid:312	178	UPDATE	status_id	1	5
+1464782120	uid:312	178	UPDATE	payment_type_id	0	1
+1464783289	uid:312	177	UPDATE	status_id	2	5
+1464784209	uid:312	162	UPDATE	status_id	3	4
+1464784209	uid:312	162	UPDATE	comments		чистка апп
+1464785690	uid:312	151	UPDATE	status_id	3	4
+1464785690	uid:312	151	UPDATE	comments	на сегодня как можно скорее  восстановление виндовс 7	на сегодня как можно скорее  восстановление виндовс 7 \ восстановление вин
+1464786162	uid:312	165	UPDATE	status_id	3	4
+1464786162	uid:312	165	UPDATE	bso	0	51
+1464786681	uid:312	169	UPDATE	status_id	1	4
+1464786681	uid:312	169	UPDATE	payment_type_id	0	1
+1464786681	uid:312	169	UPDATE	comments	Заявка на 31.06.2016 с 9.00-11.00.	Заявка на 31.06.2016 с 9.00-11.00. \ вин+драйвера
+1464786681	uid:312	169	UPDATE	staff_id	0	14
+1464786681	uid:312	169	UPDATE	summ	0	2950
+1464786681	uid:312	169	UPDATE	payment	0	2950
+1464786681	uid:312	169	UPDATE	bso	0	59
+1464789328	uid:312	135	UPDATE	bso	36	36, 29
+1464789365	uid:312	135	UPDATE	summ	3100	4600
+1464789365	uid:312	135	UPDATE	bso	36	36, 29
+1464789783	uid:275	179	INSERT			
+1464790207	uid:275	180	INSERT			
+1464793869	uid:312	167	UPDATE	status_id	1	4
+1464793869	uid:312	167	UPDATE	payment_type_id	0	1
+1464793869	uid:312	167	UPDATE	comments	Ждут в течении часа.	Ждут в течении часа.\ вин+драйвера+софт+настройка роутера
+1464793869	uid:312	167	UPDATE	staff_id	0	14
+1464793869	uid:312	167	UPDATE	summ	0	3000
+1464793869	uid:312	167	UPDATE	payment	0	3000
+1464793869	uid:312	167	UPDATE	bso	0	167
+1464793869	uid:312	167	UPDATE	payout	0	1050
+1464797988	uid:312	176	UPDATE	status_id	1	4
+1464797988	uid:312	176	UPDATE	comments		Создание лок сети
+Настройка исправление ошибок п.о
+Библиотеки антивируса
+Восстановление wi fi
+1464797988	uid:312	176	UPDATE	summ	0	4200
+1464797988	uid:312	176	UPDATE	payment	0	4200
+1464797988	uid:312	176	UPDATE	bso	0	64
+1464799126	uid:275	181	INSERT			
+1464799691	uid:312	181	UPDATE	status_id	1	2
+1464799691	uid:312	181	UPDATE	payout_date_real	2016-06-01 09:00:00	2016-06-01 17:00:00
+1464799691	uid:312	181	UPDATE	city		Калининград
+1464799691	uid:312	181	UPDATE	address		ул. Пригородная 4
+1464799691	uid:312	181	UPDATE	subject	нужно разблокировать планшет, сколько стоит?	нужно разблокировать планшет, цены от 500р
+1464799691	uid:312	181	UPDATE	payment_type_id	0	1
+1464799691	uid:312	181	UPDATE	comments		Здание аэроклуба.
+1464799725	uid:312	181	UPDATE	comments	Здание аэроклуба.	Здание аэроклуба. Заявка на 02.06.2016
+1464799764	uid:312	179	UPDATE	payment_type_id	0	1
+1464799764	uid:312	179	UPDATE	comments		от 450, позвонит
+1464799823	uid:312	175	UPDATE	payment_type_id	0	1
+1464799992	uid:312	150	UPDATE	staff_id	0	12
+1464799992	uid:312	150	UPDATE	summ	0	2200
+1464799992	uid:312	150	UPDATE	payment	0	2200
+1464799992	uid:312	150	UPDATE	bso	0	44
+1464800012	uid:312	170	UPDATE	status_id	1	5
+1464800012	uid:312	170	UPDATE	payment_type_id	0	1
+1464800012	uid:312	170	UPDATE	comments		конкуренты
+1464800597	uid:312	171	UPDATE	status_id	1	4
+1464800597	uid:312	171	UPDATE	payment_type_id	0	1
+1464800597	uid:312	171	UPDATE	comments		Настройка роутера
+1464800597	uid:312	171	UPDATE	summ	0	2000
+1464800597	uid:312	171	UPDATE	payment	0	2000
+1464800597	uid:312	171	UPDATE	bso	0	45
+1464806470	uid:275	182	INSERT			

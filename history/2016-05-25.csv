@@ -1,0 +1,57 @@
+1464162360	uid:275	144	INSERT			
+1464164764	uid:312	141	UPDATE	staff_id	0	11
+1464164764	uid:312	141	UPDATE	status_id	1	4
+1464164764	uid:312	141	UPDATE	summ	0	2000
+1464164764	uid:312	141	UPDATE	payment_type_id	0	1
+1464164764	uid:312	141	UPDATE	payment	0	2000
+1464164764	uid:312	141	UPDATE	bso	0	30
+1464164764	uid:312	141	UPDATE	comments		Установка драйверов
+1464164764	uid:312	141	UPDATE	percent	0	45
+1464164764	uid:312	141	UPDATE	payout	0	900
+1464164764	uid:312	141	UPDATE	payout_date	0000-00-00	24.05.2016
+1464168941	uid:312	125	UPDATE	address		Ленинский пр-кт, 45-4
+1464168941	uid:312	125	UPDATE	status_id	3	4
+1464168941	uid:312	125	UPDATE	summ	0	3000
+1464168941	uid:312	125	UPDATE	comments	телевизор на диагностике, по результатам диагностики, клиенту отзвонимся, сообщим	телевизор на диагностике, по результатам диагностики, клиенту отзвонимся, сообщим \ отдали
+1464168960	uid:312	140	UPDATE	payment_type_id	0	1
+1464168960	uid:312	140	UPDATE	comments		заявка 125
+1464168977	uid:312	140	UPDATE	status_id	1	4
+1464169446	uid:312	127	UPDATE	status_id	2	4
+1464169446	uid:312	127	UPDATE	summ	0	2000
+1464169446	uid:312	127	UPDATE	payment	0	2000
+1464169446	uid:312	127	UPDATE	bso	0	27
+1464169446	uid:312	127	UPDATE	comments		настройка беспроводного соединения
+1464169446	uid:312	127	UPDATE	percent	0	45
+1464169446	uid:312	127	UPDATE	payout	0	900
+1464169610	uid:312	136	UPDATE	status_id	1	5
+1464169610	uid:312	136	UPDATE	payment_type_id	0	1
+1464169685	uid:312	131	UPDATE	staff_id	0	11
+1464169685	uid:312	131	UPDATE	status_id	1	4
+1464169685	uid:312	131	UPDATE	summ	0	500
+1464169685	uid:312	131	UPDATE	payment_type_id	0	1
+1464169685	uid:312	131	UPDATE	payment	0	500
+1464169685	uid:312	131	UPDATE	comments	Ждет до 21.00 в любое время.	Ждет до 21.00 в любое время. \ тестирование бесспроводного соединения
+1464169685	uid:312	131	UPDATE	percent	0	45
+1464169911	uid:312	133	UPDATE	staff_id	0	11
+1464169911	uid:312	133	UPDATE	status_id	1	4
+1464169911	uid:312	133	UPDATE	summ	0	4600
+1464169911	uid:312	133	UPDATE	payment_type_id	0	1
+1464169911	uid:312	133	UPDATE	payment	0	4600
+1464169911	uid:312	133	UPDATE	comments	предворительно позвонить	предворительно позвонить \ замена разъема, аппаратная чистка, адаптер самсунг
+1464169934	uid:312	134	UPDATE	status_id	1	4
+1464169934	uid:312	134	UPDATE	payment_type_id	0	1
+1464169934	uid:312	134	UPDATE	comments		133
+1464169953	uid:312	135	UPDATE	status_id	1	4
+1464169953	uid:312	135	UPDATE	payment_type_id	0	1
+1464169953	uid:312	135	UPDATE	comments	отдали вчера ноутбук в ремонт, просят, чтобы им перезвонили, сказали какие проблемы в ноутбуке. звонили уже с утра, беспокоятся!	133
+1464171762	uid:275	145	INSERT			
+1464174652	uid:312	111	UPDATE	status_id	1	5
+1464174652	uid:312	111	UPDATE	payment_type_id	0	1
+1464174666	uid:312	120	UPDATE	status_id	1	5
+1464174666	uid:312	120	UPDATE	payment_type_id	0	1
+1464175945	uid:312	145	UPDATE	status_id	1	5
+1464175945	uid:312	145	UPDATE	payment_type_id	0	1
+1464175945	uid:312	145	UPDATE	comments		отменили
+1464179190	uid:312	144	UPDATE	payment_type_id	0	1
+1464189087	uid:275	146	INSERT			
+1464199411	uid:275	147	INSERT			
